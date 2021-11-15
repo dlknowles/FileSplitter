@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSplitter.Console", "FileSplitter.Console\FileSplitter.Console.csproj", "{C81ECF97-6EF0-4A0C-AD80-7AAF8CE34AD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSplitter.ConsoleApp", "FileSplitter.Console\FileSplitter.ConsoleApp.csproj", "{C81ECF97-6EF0-4A0C-AD80-7AAF8CE34AD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
